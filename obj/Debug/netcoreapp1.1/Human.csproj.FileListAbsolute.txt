@@ -1,0 +1,8 @@
+c:\Users\benpe\Dropbox\School stuff\CodingDojo\DojoAssignments\C#\Fundamentals\Human\bin\Debug\netcoreapp1.1\Human.deps.json
+c:\Users\benpe\Dropbox\School stuff\CodingDojo\DojoAssignments\C#\Fundamentals\Human\bin\Debug\netcoreapp1.1\Human.runtimeconfig.json
+c:\Users\benpe\Dropbox\School stuff\CodingDojo\DojoAssignments\C#\Fundamentals\Human\bin\Debug\netcoreapp1.1\Human.runtimeconfig.dev.json
+c:\Users\benpe\Dropbox\School stuff\CodingDojo\DojoAssignments\C#\Fundamentals\Human\bin\Debug\netcoreapp1.1\Human.dll
+c:\Users\benpe\Dropbox\School stuff\CodingDojo\DojoAssignments\C#\Fundamentals\Human\bin\Debug\netcoreapp1.1\Human.pdb
+c:\Users\benpe\Dropbox\School stuff\CodingDojo\DojoAssignments\C#\Fundamentals\Human\obj\Debug\netcoreapp1.1\Human.AssemblyInfo.cs
+c:\Users\benpe\Dropbox\School stuff\CodingDojo\DojoAssignments\C#\Fundamentals\Human\obj\Debug\netcoreapp1.1\Human.dll
+c:\Users\benpe\Dropbox\School stuff\CodingDojo\DojoAssignments\C#\Fundamentals\Human\obj\Debug\netcoreapp1.1\Human.pdb
